@@ -83,9 +83,6 @@ The FastAPI backend and React frontend are used only to demonstrate the implemen
 ```text
 zero-shot-intent-classifier/
 │
-├── classifier/
-│   └── classifier.py
-│
 ├── backend/
 │   ├── main.py
 │   ├── schemas.py
