@@ -185,5 +185,5 @@ The system demonstrates:
 - Confidence based fallback to human support
 - Interactive demonstration through React and FastAPI
 
-Name : Rutul Ambaliya
-Email : rutulambaliya125@gmail.com
+- Name : Rutul Ambaliya
+- Email : rutulambaliya125@gmail.com
