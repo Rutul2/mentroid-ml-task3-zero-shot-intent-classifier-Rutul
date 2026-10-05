@@ -2,10 +2,6 @@
 
 A customer support intent classification system using Hugging Face's pretrained `facebook/bart-large-mnli` model. The system classifies messages into predefined intents without task specific model training and routes uncertain predictions to a human agent.
 
-## Demo
-
-**Live Demo:** [Add Vercel URL]
-
 ## Problem Statement
 
 Build a dynamic mechanism to classify incoming customer support messages into specific intents such as:
@@ -92,8 +88,9 @@ zero-shot-intent-classifier/
 │
 ├── backend/
 │   ├── main.py
-│   └── schemas.py
-│
+│   ├── schemas.py
+│   └── classifier.py
+|
 ├── frontend/
 │   └── src/
 │       ├── App.jsx
